@@ -1,6 +1,6 @@
 # Couchbase Lite .NET tutorial app
 
-This repo contains the iOS and Android HellCBL application used in the [tutorial for Couchbase Lite .NET](http://developer.couchbase.com/mobile/develop/training/build-first-net-app/index.html). The tutorial shows how to bring the Couchbase Lite NuGet package into your app, create a database, and do basic CRUD operations. To focus on using Couchbase Lite, the app is highly simplified and provides only console output in the simulator. (There's no UI output other than a plain white background screen).
+This repo contains the iOS and Android HellCBL application used in the [tutorial for Couchbase Lite .NET](http://developer.couchbase.com/mobile/develop/training/build-first-net-app/index.html). The tutorial shows how to bring the Couchbase Lite NuGet package into your app, create a database, and do basic CRUD operations. To focus on using Couchbase Lite, the app is highly simplified and provides only console output in the simulator. (There's no UI output other than a plain black background screen).
 
 ## Downloading and running the tutorial app
 
