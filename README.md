@@ -18,10 +18,12 @@ This repo contains the iOS and Android HellCBL application used in the [tutorial
 
 4. In Xamarin Studio, open the solution file found at **/couchbase-lite-tutorial-net/HelloCBL/HelloCBL.sln**.
 
-5. To run HelloCBL.iOS, right click at the HelloCBL.iOS project and choose **'Set As Startup Project'** from the menu.
+5. Select View > Debug mode
 
-6. Choose your iPhone simulator or device as desire and click 'Run' button. You can view the output in the Application Output console.
+6. To run HelloCBL.iOS, right click at the HelloCBL.iOS project and choose 'Set As Startup Project' from the menu.
 
-7. To run HelloCBL.Android, right click at the HelloCBL.Android project and choose **'Set As Startup Project'** from the menu.
+7. Choose your iPhone simulator or device as desire and click 'Run' button. You can view the output in the Application Output console.
 
-6. Configure or Select your Android simulator or device and click 'Run' button. You can view the output in the Application Output console.
+8. To run HelloCBL.Android, right click at the HelloCBL.Android project and choose 'Set As Startup Project' from the menu.
+
+9. Configure or Select your Android simulator or device and click 'Run' button. You can view the output in the Application Output console.
